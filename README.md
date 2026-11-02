@@ -1,0 +1,3 @@
+## Studio Helper
+
+Nia is a mock assistant for a Pilates studio that tells clients which classes are open on a given day, using a schedule tool. It is mock because its replies come from simple keyword rules in if statements. Requests to book, cancel, or get a refund or payment help go to the front desk, because they change someone's booking or money and a person has to confirm them. If it used real customer data, it could reveal someone's name or booking history to the wrong person when keywords match the wrong message.
